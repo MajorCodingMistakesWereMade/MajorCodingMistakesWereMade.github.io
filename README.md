@@ -1,1 +1,1 @@
-# MajorWorks.github.io
+# MajorCodingMistakesWereMade.github.io
